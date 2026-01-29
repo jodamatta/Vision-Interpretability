@@ -8,7 +8,7 @@ Please use the InceptionV1 model and the ImageNet dataset, and collect the 10 da
 
 ## Submission Instructions
 
-Add your notebook to the 'submissions/' folder for this segment.
+Add your notebook to the `submissions/` folder for this segment.
 **Notebook naming format:**
 
 github-username__segment_3_dataset_images.ipynb
